@@ -27,11 +27,3 @@ The detailed documentation can be found in [Documentation/ServerSetupAndSecurity
 **Usage**
 
 This documentation provides a step-by-step guide to setting up and securing a cloud server. It can be used as a reference for anyone looking to deploy a server on the AWS free tier.
-
-**Author**
-
-[Your Name]
-
-**License**
-
-[Optional:  e.g., MIT License]
